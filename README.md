@@ -21,3 +21,9 @@ A GUI-based login interface designed in NetBeans IDE using Java Swing components
 ### Task 4: Home Page
 
 Connect a Java program to a MySQL database and create a homepage using NetBeans with buttons for navigation and user greeting.
+
+---
+
+### TASK 5: customer&product management system
+
+This project is developed as part of **Full Stack, Web Development and Java Development 
