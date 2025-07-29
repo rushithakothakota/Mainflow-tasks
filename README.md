@@ -26,4 +26,12 @@ Connect a Java program to a MySQL database and create a homepage using NetBeans 
 
 ### TASK 5: customer&product management system
 
-This project is developed as part of **Full Stack, Web Development and Java Development 
+This project is developed as part of **Full Stack, Web Development and Java Development.
+
+---
+
+### TASK 6: Update and Search Products/Buyers
+
+A full-stack web application to update and search products or buyers with real-time filtering and editable records.
+
+---
